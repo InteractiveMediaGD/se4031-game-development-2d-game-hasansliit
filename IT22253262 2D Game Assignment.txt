@@ -1,0 +1,9 @@
+Drive Link : https://drive.google.com/drive/folders/1G4lHtQEAUqF7oZz5o-Cr9VuTWnZ0GgCz?usp=sharing
+
+Folder Structure: 
+
+\Windows .exe Build\..
+\Zipped Unity Project Folder\..
+\Gameplay Demo Video\..
+\Game Document.pdf
+
